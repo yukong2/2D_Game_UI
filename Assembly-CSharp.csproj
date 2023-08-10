@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Free UI build package\Script\Slide.cs" />
     <Compile Include="Assets\Free UI build package\Script\Togglescript.cs" />
+    <Compile Include="Assets\Scripts\Boss_HPControl.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\HP_BarControl.cs" />
     <Compile Include="Assets\Scripts\MP_BarControl.cs" />
